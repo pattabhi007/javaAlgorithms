@@ -1,1 +1,1 @@
-# javaAlgorithms
+# java Algorithms practise
